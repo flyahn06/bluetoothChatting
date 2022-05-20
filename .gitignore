@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# pycharm environment
+.idea/
+
+# temporary files
+temp.py
+test.py
